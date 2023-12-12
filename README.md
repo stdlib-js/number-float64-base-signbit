@@ -201,6 +201,12 @@ int main( void ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/number-float32/base/signbit`][@stdlib/number/float32/base/signbit]</span><span class="delimiter">: </span><span class="description">return a boolean indicating if the sign bit for a single-precision floating-point number is on (true) or off (false).</span>
+
 </section>
 
 <!-- /.related -->
@@ -275,6 +281,12 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/number-float64-base-signbit/main/LICENSE
 
 [ieee754]: https://en.wikipedia.org/wiki/IEEE_754-1985
+
+<!-- <related-links> -->
+
+[@stdlib/number/float32/base/signbit]: https://github.com/stdlib-js/number-float32-base-signbit
+
+<!-- </related-links> -->
 
 </section>
 
