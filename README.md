@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import signbit from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-signbit@esm/index.mjs';
+import signbit from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-signbit@v0.2.0-esm/index.mjs';
 ```
 
 #### signbit( x )
@@ -80,7 +80,7 @@ bool = signbit( -0.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import signbit from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-signbit@esm/index.mjs';
+import signbit from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-signbit@v0.2.0-esm/index.mjs';
 
 var sign;
 var x;
