@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-08)
+## Unreleased (2026-07-08)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#13275](https://github.com/stdlib-js/stdlib/issues/13275)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`3fab81a`](https://github.com/stdlib-js/stdlib/commit/3fab81a6c52512fb46519359fbd72b19cd9a8006) - **chore:** fix C lint errors [(#13280)](https://github.com/stdlib-js/stdlib/pull/13280) _(by Ujjwal Verma)_
 -   [`fe2eec4`](https://github.com/stdlib-js/stdlib/commit/fe2eec4417d858b83b208929a4bbac3d9d236fa4) - **bench:** refactor to use string interpolation in `number` [(#11603)](https://github.com/stdlib-js/stdlib/pull/11603) _(by Karan Anand)_
 -   [`35566af`](https://github.com/stdlib-js/stdlib/commit/35566af0add64775e60422fd16e50e1bec3947e7) - **docs:** fix C examples in READMEs [(#11229)](https://github.com/stdlib-js/stdlib/pull/11229) _(by anee3, Athan Reines)_
 
@@ -25,10 +38,11 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
+-   Ujjwal Verma
 -   anee3
 
 </section>
